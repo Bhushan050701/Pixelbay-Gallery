@@ -1,6 +1,6 @@
-# image_galary
+# Pixelbay Image Gallery
 
-A new Flutter project.
+A Flutter project to display images using Pixelbay API
 
 ## Getting Started
 
